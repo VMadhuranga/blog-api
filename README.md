@@ -22,3 +22,7 @@ See [Live preview](https://blog-api.pages.dev/posts)
 - [API back end](https://github.com/VMadhuranga/blog-api-backend)
 - [Reader front end](https://github.com/VMadhuranga/blog-api-reader-frontend)
 - [Author front end](https://github.com/VMadhuranga/blog-api-author-frontend)
+
+## Credits
+
+- Photo by <a href="https://unsplash.com/@neom?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NEOM</a> on <a href="https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-LAj90eAXOZA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
