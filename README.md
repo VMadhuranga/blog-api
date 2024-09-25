@@ -15,7 +15,7 @@ By doing this project I've learned:
 - What is Same Origin Policy and purpose of CORS
 - How to allow access to API from certain origin using CORS
 
-See [Live preview](https://blog-api.pages.dev/posts)
+**TODO: Add live preview**
 
 ## Repositories
 
